@@ -3,8 +3,8 @@ message= input(">")
 words= message.split(' ')
 
 emojis ={
-    ":)": "dzunkaldzunkal",   #you can insert emojies instead of these words"
-    ":(": "tanklitunkli"
+    ":)": "smileyface",   #you can insert emojies instead of these words"
+    ":(": "sadface"
     }
 print(words)
 
