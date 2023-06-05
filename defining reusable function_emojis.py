@@ -2,8 +2,8 @@ def emoji_converter(message):  #here message is a parameter = sentence
    words= message.split(' ')
 
    emojis ={
-       ":)": "dzunkaldzunkal",   #you can insert emojies instead of these words"
-       ":(": "tanklitunkli"
+       ":)": "smilyface",   #you can insert emojies instead of these words"
+       ":(": "sadface"
    }
 
    output =""
